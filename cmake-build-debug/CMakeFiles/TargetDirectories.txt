@@ -1,0 +1,3 @@
+C:/Users/jorda/source/repos/RPGSDL2/cmake-build-debug/CMakeFiles/RPGSDL2.dir
+C:/Users/jorda/source/repos/RPGSDL2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jorda/source/repos/RPGSDL2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

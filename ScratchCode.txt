@@ -1,0 +1,43 @@
+  // // Intro to functions
+    // cout << "You enter the haunted mall." << endl;
+    // cout << "In the distance a stands a tall figure dressed in a deep red robe, it pulls back it's hood and reveals a skull face." << endl;
+    // cout << "It speaks in an inhuman tone, 'Answer my questions three or suffer mine penalty!'" << endl;
+    // if (Puzzle1() != 0)
+    // {
+    //     int damageDealt = 9;
+    //     cout << "The Skeleton Gatekeeper does " << damageDealt << " shadow damage" << endl;
+    //     player.TakeDamage(damageDealt);
+    //     cout << "HP: " << player.GetHitPoints() << endl;
+    // }
+    // else
+    // {
+    //     cout << "You sense that his skeleton means business and would have done some damage had you answered incorrectly" << endl;
+    // }
+    // player.DisplayPlayerAttributes();
+    // cout << "" << system("pause");
+    // ClearScreen();
+    // // Meet a monster
+    // cout << "You find your self in the food court. You stomach growls with hunger and stress. You find a paper bag marked 'Miller Max' burger. You smell the sweet potato fries and toasted buns. Your let's out a growl of excitement and you reach for the bag! The bag growls back, prepare for combat, it's a Sham!" << endl;
+    // Sham shamBurger;
+    // Klog klog1;
+    // player.TakeDamage(shamBurger.DealDamage());
+    // shamBurger.TakeDamage(player.DealDamage());
+    // player.DisplayPlayerAttributes();
+    // // shamBurger.DisplayCharacterAttributes();
+    // cout << "" << system("pause");
+    // // Class Object Pointers
+    // Klog *klogPointer = new Klog();
+    // klogPointer->DisplayCharacterAttributes();
+    // klogPointer->TakeDamage(500);
+    // klogPointer->DisplayCharacterAttributes();
+    // klogPointer->MakeDeathNoise();
+    // // Polymorphism
+    // Character *characterPointer = &klog1;
+    // characterPointer->SetHitPoints(10);
+    // characterPointer->TakeDamage(-10);
+    // characterPointer->DisplayCharacterAttributes();
+    // Klog *klogPointer2 = (Klog *)characterPointer;
+    // klogPointer2->MakeDeathNoise();
+    // // Delete and NULL pointer
+    // delete klogPointer;
+    // klogPointer = NULL;
